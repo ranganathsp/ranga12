@@ -3,6 +3,7 @@
  */
 #include <stdio.h>
 added line
+echo "hello"
 void big()
 {
     int num1, num2, num3;
